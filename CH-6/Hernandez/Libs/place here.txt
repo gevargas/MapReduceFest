@@ -1,0 +1,4 @@
+Please place the following libraries here:
+
+commons-logging-1.1.1.jar
+hadoop-core-1.0.4.jar

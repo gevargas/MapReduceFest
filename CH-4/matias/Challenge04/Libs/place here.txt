@@ -1,0 +1,5 @@
+Please place the following libraries here:
+
+commons-io-2.1.jar
+hadoop-core-1.0.4.jar
+hbase-0.94.7.jar

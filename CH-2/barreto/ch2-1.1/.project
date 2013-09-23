@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>hadoop-basic</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/hadoop-core-1.0.4.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Dropbox/facultad/Master%20Thesis/Map%20Reduce/challenges/2/WordCount%20Example.zip%20Folder/WordCount/hadoop-core-1.0.4.jar</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

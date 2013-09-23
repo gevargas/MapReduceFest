@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/hadoop-core-1.0.4.jar" sourcepath="/home/matiash/MapReduceFest/hadoop-1.0.4/src"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/hbase-0.94.7.jar" sourcepath="/home/matiash/MapReduceFest/hbase-0.94.7/src"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/matiash/MapReduceFest/Challenge04/Libs/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

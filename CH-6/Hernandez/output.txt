@@ -1,0 +1,1027 @@
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.util.NativeCodeLoader <clinit>
+WARNING: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.mapred.JobClient copyAndConfigureFiles
+WARNING: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.mapred.JobClient copyAndConfigureFiles
+WARNING: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.io.compress.snappy.LoadSnappy <clinit>
+WARNING: Snappy native library not loaded
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.mapred.FileInputFormat listStatus
+INFO: Total input paths to process : 1
+Sep 15, 2013 7:56:33 PM org.apache.hadoop.mapred.FileInputFormat listStatus
+INFO: Total input paths to process : 1
+Sep 15, 2013 7:56:33 PM CartesianInputFormat getSplits
+INFO: Total splits to process: 1
+Sep 15, 2013 7:56:34 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO: Running job: job_local_0001
+Sep 15, 2013 7:56:34 PM org.apache.hadoop.util.ProcessTree isSetsidSupported
+INFO: setsid exited with exit code 0
+Sep 15, 2013 7:56:34 PM org.apache.hadoop.mapred.Task initialize
+INFO:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@4e79f1
+Sep 15, 2013 7:56:34 PM org.apache.hadoop.mapred.MapTask runOldMapper
+INFO: numReduceTasks: 0
+Sep 15, 2013 7:56:35 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 0% reduce 0%
+Sep 15, 2013 7:56:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:47 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 1% reduce 0%
+Sep 15, 2013 7:56:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:56:59 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 2% reduce 0%
+Sep 15, 2013 7:57:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:11 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 3% reduce 0%
+Sep 15, 2013 7:57:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:20 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 4% reduce 0%
+Sep 15, 2013 7:57:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:32 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 5% reduce 0%
+Sep 15, 2013 7:57:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:41 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 6% reduce 0%
+Sep 15, 2013 7:57:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:53 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 7% reduce 0%
+Sep 15, 2013 7:57:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:57:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:05 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 8% reduce 0%
+Sep 15, 2013 7:58:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:17 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 9% reduce 0%
+Sep 15, 2013 7:58:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:29 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 10% reduce 0%
+Sep 15, 2013 7:58:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:38 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 11% reduce 0%
+Sep 15, 2013 7:58:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 12% reduce 0%
+Sep 15, 2013 7:58:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:58:58 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 13% reduce 0%
+Sep 15, 2013 7:59:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:10 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 14% reduce 0%
+Sep 15, 2013 7:59:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:19 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 15% reduce 0%
+Sep 15, 2013 7:59:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 16% reduce 0%
+Sep 15, 2013 7:59:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 17% reduce 0%
+Sep 15, 2013 7:59:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 18% reduce 0%
+Sep 15, 2013 7:59:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 7:59:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:01 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 19% reduce 0%
+Sep 15, 2013 8:00:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:13 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 20% reduce 0%
+Sep 15, 2013 8:00:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:25 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 21% reduce 0%
+Sep 15, 2013 8:00:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:37 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 22% reduce 0%
+Sep 15, 2013 8:00:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:49 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 23% reduce 0%
+Sep 15, 2013 8:00:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:00:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:04 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 24% reduce 0%
+Sep 15, 2013 8:01:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:16 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 25% reduce 0%
+Sep 15, 2013 8:01:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 26% reduce 0%
+Sep 15, 2013 8:01:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 27% reduce 0%
+Sep 15, 2013 8:01:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 28% reduce 0%
+Sep 15, 2013 8:01:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:01:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:04 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 29% reduce 0%
+Sep 15, 2013 8:02:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:19 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 30% reduce 0%
+Sep 15, 2013 8:02:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 31% reduce 0%
+Sep 15, 2013 8:02:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 32% reduce 0%
+Sep 15, 2013 8:02:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 33% reduce 0%
+Sep 15, 2013 8:02:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:02:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:04 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 34% reduce 0%
+Sep 15, 2013 8:03:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:16 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 35% reduce 0%
+Sep 15, 2013 8:03:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 36% reduce 0%
+Sep 15, 2013 8:03:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 37% reduce 0%
+Sep 15, 2013 8:03:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 38% reduce 0%
+Sep 15, 2013 8:03:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:03:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:01 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 39% reduce 0%
+Sep 15, 2013 8:04:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:16 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 40% reduce 0%
+Sep 15, 2013 8:04:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 41% reduce 0%
+Sep 15, 2013 8:04:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:37 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 42% reduce 0%
+Sep 15, 2013 8:04:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:49 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 43% reduce 0%
+Sep 15, 2013 8:04:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:04:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:01 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 44% reduce 0%
+Sep 15, 2013 8:05:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:10 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 45% reduce 0%
+Sep 15, 2013 8:05:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:22 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 46% reduce 0%
+Sep 15, 2013 8:05:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:37 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 47% reduce 0%
+Sep 15, 2013 8:05:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 48% reduce 0%
+Sep 15, 2013 8:05:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:05:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:01 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 49% reduce 0%
+Sep 15, 2013 8:06:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:13 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 50% reduce 0%
+Sep 15, 2013 8:06:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:22 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 51% reduce 0%
+Sep 15, 2013 8:06:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:34 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 52% reduce 0%
+Sep 15, 2013 8:06:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 53% reduce 0%
+Sep 15, 2013 8:06:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:06:58 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 54% reduce 0%
+Sep 15, 2013 8:07:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:10 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 55% reduce 0%
+Sep 15, 2013 8:07:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:22 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 56% reduce 0%
+Sep 15, 2013 8:07:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:34 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 57% reduce 0%
+Sep 15, 2013 8:07:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 58% reduce 0%
+Sep 15, 2013 8:07:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:07:55 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 59% reduce 0%
+Sep 15, 2013 8:07:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:07 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 60% reduce 0%
+Sep 15, 2013 8:08:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:16 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 61% reduce 0%
+Sep 15, 2013 8:08:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:25 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 62% reduce 0%
+Sep 15, 2013 8:08:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:37 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 63% reduce 0%
+Sep 15, 2013 8:08:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 64% reduce 0%
+Sep 15, 2013 8:08:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:08:58 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 65% reduce 0%
+Sep 15, 2013 8:09:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:10 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 66% reduce 0%
+Sep 15, 2013 8:09:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:22 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 67% reduce 0%
+Sep 15, 2013 8:09:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:34 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 68% reduce 0%
+Sep 15, 2013 8:09:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 69% reduce 0%
+Sep 15, 2013 8:09:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:09:55 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 70% reduce 0%
+Sep 15, 2013 8:09:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:07 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 71% reduce 0%
+Sep 15, 2013 8:10:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:19 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 72% reduce 0%
+Sep 15, 2013 8:10:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:28 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 73% reduce 0%
+Sep 15, 2013 8:10:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 74% reduce 0%
+Sep 15, 2013 8:10:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 75% reduce 0%
+Sep 15, 2013 8:10:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:10:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:04 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 76% reduce 0%
+Sep 15, 2013 8:11:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:13 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 77% reduce 0%
+Sep 15, 2013 8:11:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:25 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 78% reduce 0%
+Sep 15, 2013 8:11:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:34 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 79% reduce 0%
+Sep 15, 2013 8:11:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:46 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 80% reduce 0%
+Sep 15, 2013 8:11:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:11:58 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 81% reduce 0%
+Sep 15, 2013 8:12:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:10 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 82% reduce 0%
+Sep 15, 2013 8:12:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:22 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 83% reduce 0%
+Sep 15, 2013 8:12:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:31 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 84% reduce 0%
+Sep 15, 2013 8:12:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:40 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 85% reduce 0%
+Sep 15, 2013 8:12:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:52 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 86% reduce 0%
+Sep 15, 2013 8:12:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:12:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:01 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 87% reduce 0%
+Sep 15, 2013 8:13:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:13 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 88% reduce 0%
+Sep 15, 2013 8:13:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:25 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 89% reduce 0%
+Sep 15, 2013 8:13:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:37 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 90% reduce 0%
+Sep 15, 2013 8:13:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:49 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 91% reduce 0%
+Sep 15, 2013 8:13:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:13:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:02 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 92% reduce 0%
+Sep 15, 2013 8:14:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:11 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 93% reduce 0%
+Sep 15, 2013 8:14:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:20 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 94% reduce 0%
+Sep 15, 2013 8:14:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:28 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:31 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:32 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 95% reduce 0%
+Sep 15, 2013 8:14:34 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:37 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:40 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:41 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 96% reduce 0%
+Sep 15, 2013 8:14:43 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:46 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:49 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:52 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:53 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 97% reduce 0%
+Sep 15, 2013 8:14:55 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:14:58 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:01 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:04 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:05 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 98% reduce 0%
+Sep 15, 2013 8:15:07 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:10 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:13 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:14 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 99% reduce 0%
+Sep 15, 2013 8:15:16 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:19 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:22 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:23 PM org.apache.hadoop.mapred.Task done
+INFO: Task:attempt_local_0001_m_000000_0 is done. And is in the process of commiting
+Sep 15, 2013 8:15:23 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:23 PM org.apache.hadoop.mapred.Task commit
+INFO: Task attempt_local_0001_m_000000_0 is allowed to commit now
+Sep 15, 2013 8:15:23 PM org.apache.hadoop.mapred.FileOutputCommitter commitTask
+INFO: Saved output of task 'attempt_local_0001_m_000000_0' to file:/home/matiash/MapReduceFest/Challenge06/Output
+Sep 15, 2013 8:15:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:25 PM org.apache.hadoop.mapred.LocalJobRunner$Job statusUpdate
+INFO: file:/home/matiash/MapReduceFest/Challenge06/Input/CommentsMetaSciFi.xml:0+1877060
+Sep 15, 2013 8:15:25 PM org.apache.hadoop.mapred.Task sendDone
+INFO: Task 'attempt_local_0001_m_000000_0' done.
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO:  map 100% reduce 0%
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.JobClient monitorAndPrintJob
+INFO: Job complete: job_local_0001
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO: Counters: 13
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:   File Input Format Counters 
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Bytes Read=0
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:   File Output Format Counters 
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Bytes Written=513643654
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:   FileSystemCounters
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     FILE_BYTES_READ=11695961218
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     FILE_BYTES_WRITTEN=513675825
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:   Map-Reduce Framework
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Map input records=38812900
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Physical memory (bytes) snapshot=0
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Spilled Records=0
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Total committed heap usage (bytes)=16056320
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     CPU time spent (ms)=0
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Map input bytes=1877060
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Virtual memory (bytes) snapshot=0
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     SPLIT_RAW_BYTES=301
+Sep 15, 2013 8:15:26 PM org.apache.hadoop.mapred.Counters log
+INFO:     Map output records=16552698
+

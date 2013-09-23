@@ -1,0 +1,77 @@
+13/05/12 18:35:55 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+13/05/12 18:35:55 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+13/05/12 18:35:55 INFO input.FileInputFormat: Total input paths to process : 1
+13/05/12 18:35:55 WARN snappy.LoadSnappy: Snappy native library not loaded
+13/05/12 18:35:55 INFO mapred.JobClient: Running job: job_local_0001
+13/05/12 18:35:55 INFO util.ProcessTree: setsid exited with exit code 0
+13/05/12 18:35:55 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@13bd574
+13/05/12 18:35:55 INFO mapred.MapTask: io.sort.mb = 100
+13/05/12 18:35:55 INFO mapred.MapTask: data buffer = 79691776/99614720
+13/05/12 18:35:55 INFO mapred.MapTask: record buffer = 262144/327680
+13/05/12 18:35:56 INFO mapred.JobClient:  map 0% reduce 0%
+13/05/12 18:36:01 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:02 INFO mapred.JobClient:  map 36% reduce 0%
+13/05/12 18:36:04 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:05 INFO mapred.JobClient:  map 56% reduce 0%
+13/05/12 18:36:07 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:08 INFO mapred.JobClient:  map 77% reduce 0%
+13/05/12 18:36:10 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:10 INFO mapred.MapTask: Starting flush of map output
+13/05/12 18:36:11 INFO mapred.MapTask: Finished spill 0
+13/05/12 18:36:11 INFO mapred.Task: Task:attempt_local_0001_m_000000_0 is done. And is in the process of commiting
+13/05/12 18:36:11 INFO mapred.JobClient:  map 97% reduce 0%
+13/05/12 18:36:13 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:13 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:13 INFO mapred.Task: Task 'attempt_local_0001_m_000000_0' done.
+13/05/12 18:36:13 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5a67c9
+13/05/12 18:36:13 INFO mapred.MapTask: io.sort.mb = 100
+13/05/12 18:36:13 INFO mapred.MapTask: data buffer = 79691776/99614720
+13/05/12 18:36:13 INFO mapred.MapTask: record buffer = 262144/327680
+13/05/12 18:36:14 INFO mapred.JobClient:  map 100% reduce 0%
+13/05/12 18:36:19 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:20 INFO mapred.MapTask: Starting flush of map output
+13/05/12 18:36:20 INFO mapred.MapTask: Finished spill 0
+13/05/12 18:36:20 INFO mapred.Task: Task:attempt_local_0001_m_000001_0 is done. And is in the process of commiting
+13/05/12 18:36:20 INFO mapred.JobClient:  map 96% reduce 0%
+13/05/12 18:36:22 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:22 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:22 INFO mapred.Task: Task 'attempt_local_0001_m_000001_0' done.
+13/05/12 18:36:22 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@1e228bc
+13/05/12 18:36:22 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:22 INFO mapred.Merger: Merging 2 sorted segments
+13/05/12 18:36:22 INFO mapred.Merger: Down to the last merge-pass, with 2 segments left of total size: 349984 bytes
+13/05/12 18:36:22 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:22 INFO mapred.Task: Task:attempt_local_0001_r_000000_0 is done. And is in the process of commiting
+13/05/12 18:36:22 INFO mapred.LocalJobRunner: 
+13/05/12 18:36:22 INFO mapred.Task: Task attempt_local_0001_r_000000_0 is allowed to commit now
+13/05/12 18:36:22 INFO output.FileOutputCommitter: Saved output of task 'attempt_local_0001_r_000000_0' to outputEnglishSmart
+13/05/12 18:36:23 INFO mapred.JobClient:  map 100% reduce 0%
+13/05/12 18:36:25 INFO mapred.LocalJobRunner: reduce > reduce
+13/05/12 18:36:25 INFO mapred.Task: Task 'attempt_local_0001_r_000000_0' done.
+13/05/12 18:36:26 INFO mapred.JobClient:  map 100% reduce 100%
+13/05/12 18:36:26 INFO mapred.JobClient: Job complete: job_local_0001
+13/05/12 18:36:26 INFO mapred.JobClient: Counters: 20
+13/05/12 18:36:26 INFO mapred.JobClient:   File Output Format Counters 
+13/05/12 18:36:26 INFO mapred.JobClient:     Bytes Written=1086
+13/05/12 18:36:26 INFO mapred.JobClient:   FileSystemCounters
+13/05/12 18:36:26 INFO mapred.JobClient:     FILE_BYTES_READ=132943394
+13/05/12 18:36:26 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=1029253
+13/05/12 18:36:26 INFO mapred.JobClient:   File Input Format Counters 
+13/05/12 18:36:26 INFO mapred.JobClient:     Bytes Read=49493633
+13/05/12 18:36:26 INFO mapred.JobClient:   Map-Reduce Framework
+13/05/12 18:36:26 INFO mapred.JobClient:     Map output materialized bytes=349992
+13/05/12 18:36:26 INFO mapred.JobClient:     Map input records=168054
+13/05/12 18:36:26 INFO mapred.JobClient:     Reduce shuffle bytes=0
+13/05/12 18:36:26 INFO mapred.JobClient:     Spilled Records=96
+13/05/12 18:36:26 INFO mapred.JobClient:     Map output bytes=3865242
+13/05/12 18:36:26 INFO mapred.JobClient:     Total committed heap usage (bytes)=481505280
+13/05/12 18:36:26 INFO mapred.JobClient:     CPU time spent (ms)=0
+13/05/12 18:36:26 INFO mapred.JobClient:     SPLIT_RAW_BYTES=286
+13/05/12 18:36:26 INFO mapred.JobClient:     Combine input records=168054
+13/05/12 18:36:26 INFO mapred.JobClient:     Reduce input records=48
+13/05/12 18:36:26 INFO mapred.JobClient:     Reduce input groups=24
+13/05/12 18:36:26 INFO mapred.JobClient:     Combine output records=48
+13/05/12 18:36:26 INFO mapred.JobClient:     Physical memory (bytes) snapshot=0
+13/05/12 18:36:26 INFO mapred.JobClient:     Reduce output records=24
+13/05/12 18:36:26 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=0
+13/05/12 18:36:26 INFO mapred.JobClient:     Map output records=168054
